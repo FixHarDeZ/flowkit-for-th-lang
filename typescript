@@ -1,0 +1,158 @@
+Script started on Mon Sep 21 13:38:06 2026
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit]1;..yCode/flowkit]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit\[0m[27m[24m[J[01;32m➜  [36mflowkit[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mflowkit[00m [01;34mgit:([31mmain[34m) [33m✗[00m [Kccd c  sscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[31mrun.sh[39;49m[0m        [31mstatusline.sh[39;49m[0m
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls -tplr[?1l>[?2004l
+]2;ls -G -tplr]1;lstotal 24
+-rwxr-xr-x@ 1 peerawat.ujaiyen  staff  6336 Sep 21 10:31 [31mstatusline.sh[39;49m[0m
+-rwxr-xr-x@ 1 peerawat.ujaiyen  staff   123 Sep 21 13:34 [31mrun.sh[39;49m[0m
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h../run.sh[1m [0m[0m [?1l>[?2004l
+]2;./run.sh]1;./run.sh./run.sh: line 2: eport: command not found
+/opt/homebrew/opt/python@3.12/bin/python3.12: Relative module names not supported
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hwwbjcb\\\      w  wwhich [?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[7mwhich python3.12[27m[16D[27mw[27mh[27mi[27mc[27mh[27m [27mp[27my[27mt[27mh[27mo[27mn[27m3[27m.[27m1[27m2[?1l>[?2004l
+]2;which python3.12]1;which/opt/homebrew/bin/python3.12
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvvi .zs   v  [?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvvi ~/.zshrd c[?1l>[?2004l
+]2;vi ~/.zshrc]1;vi[?1049h[>4;2m[?1h=[?2004h[?1004h[1;52r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[52;1H"~/.zshrc" 108L, 4191B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?]10;?[1;1H# If you come from bash you might have to chh[2;1Hange your $PATH.[2;17H[K[3;1H# export PATH=$HOME/bin:$HOME/.local/bin:/uss[4;1Hr/local/bin:$PATH
+
+# Path to your Oh My Zsh installation.
+export ZSH="$HOME/.oh-my-zsh"
+
+# Set name of the theme to load --- if set tt[10;1Ho "random", it will
+# load a random theme each time Oh My Zsh iss[12;1H loaded, in which case,
+# to know which specific one was loaded, runn[14;1H: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wikk[16;1Hi/Themes
+ZSH_THEME="robbyrussell"
+
+# Set list of themes to pick from when loadii[20;1Hng at random
+# Setting this variable when ZSH_THEME=randoo[22;1Hm will cause zsh to load
+# a theme from this variable instead of lookk[24;1Hing in $ZSH/themes/
+# If set to an empty array, this variable wii[26;1Hll have no effect.
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell[28;1Hl" "agnoster" )
+
+# Uncomment the following line to use case-ss[31;1Hensitive completion.
+# CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphenn[35;1H-insensitive completion.
+# Case-sensitive completion must be off. _ aa[37;1Hnd - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
+# Uncomment one of the following lines to chh[41;1Hange the auto-update behavior
+# zstyle ':omz:update' mode disabled  # disaa[43;1Hble automatic updates
+# zstyle ':omz:update' mode auto      # updaa[45;1Hte automatically without asking
+# zstyle ':omz:update' mode reminder  # justt[47;1H remind me to update when it's time
+
+# Uncomment the following line to change howw[50;1H often to auto-update (in days).
+# zstyle ':omz:update' frequency 13[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$pP+q6b32\P+q6b33\P+q6b34\P+q6b35\P+q6b36\P+q6b37\P+q6b38\P+q6b39\P+q6b3b\P+q4631\P+q4632\P+q2531\P+q2638\P+q6b62\P+q6b49\P+q6b44\P+q6b68\P+q4037\P+q6b50\P+q6b4e\P+q4b31\P+q4b33\P+q4b34\P+q4b35\P+q6b42\P+q5053\P+q5045\[?25l[52;34HG[1;1H[52;34H [50;1H[27m[23m[29m[m[H[2J[1;1H# Example format: plugins=(rails git textmatt[2;1He ruby lighthouse)
+# Add wisely, as too many plugins slow down  [4;1Hshell startup.
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# You may need to manually set your languagee[14;1H environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sesss[18;1Hions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='nvim'
+# fi
+
+# Compilation flags
+# export ARCHFLAGS="-arch $(uname -m)"
+
+# Set personal aliases, overriding those proo[29;1Hvided by Oh My Zsh libs,
+# plugins, and themes. Aliases can be placedd[31;1H here, though Oh My Zsh
+# users are encouraged to define aliases witt[33;1Hhin a top-level file in
+# the $ZSH_CUSTOM folder, with .zsh extensioo[35;1Hn. Examples:
+# - $ZSH_CUSTOM/aliases.zsh
+# - $ZSH_CUSTOM/macos.zsh
+# For a full list of active aliases, run `all[39;1Hias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+### MANAGED BY RANCHER DESKTOP START (DO NOTT[46;1H EDIT)
+export PATH="/Users/peerawat.ujaiyen/.rd/binn[48;1H:/opt/homebrew/opt/python@3.12/libexec/bin:$$[49;1HPATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EE[51;1HDIT)[50;1H[?25h[?25l[52;34H^[[50;1H[?25h[?25l[52;34H  [50;1H[?25h[?25l[52;34H~@k[50;1H[52;34H   [47;1H[?25h[?25l[52;34H~@k[47;1H[52;34H   [50;1H[?25h[?25l[52;34H~@k[50;1H[52;34H   [47;1H[?25h[?25l[52;34H^[[47;1H[?25h[?25l[52;34H  [47;1H[52;34H^[[47;1H[52;34H  [47;1H[?25h[?25l[52;34H~@k[47;1H[52;34H   [47;2H[?25h[?25l[52;34H~@k[47;2H[52;34H   [47;3H[?25h[?25l[52;34H~@k[47;3H[52;34H   [47;4H[?25h[?25l[52;34H~@k[47;4H[52;34H   [47;5H[?25h[?25l[52;34H~@k[47;5H[52;34H   [47;6H[?25h[?25l[52;34H~@k[47;6H[52;34H   [47;7H[?25h[?25l[52;34H~@k[47;7H[52;34H   [47;8H[?25h[?25l[52;34H~@k[47;8H[52;34H   [47;9H[?25h[?25l[52;34H~@k[47;9H[52;34H   [47;10H[?25h[?25l[52;34H~@k[47;10H[52;34H   [47;11H[?25h[?25l[52;34H~@k[47;11H[52;34H   [47;12H[?25h[?25l[52;34H~@k[47;12H[52;34H   [47;13H[?25h[?25l[52;34H~@k[47;13H[52;34H   [47;14H[?25h[?25l[52;34H~@k[47;14H[52;34H   [47;15H[?25h[?25l[52;34H~@k[47;15H[52;34H   [47;16H[?25h[?25l[52;34H~@k[47;16H[52;34H   [47;17H[?25h[?25l[52;34H~@k[47;17H[52;34H   [47;18H[?25h[?25l[52;34H~@k[47;18H[52;34H   [47;19H[?25h[?25l[52;34H~@k[47;19H[52;34H   [47;20H[?25h[?25l[52;34H~@k[47;20H[52;34H   [47;21H[?25h[?25l[52;34H~@k[47;21H[52;34H   [47;22H[?25h[?25l[52;34H~@k[47;22H[52;34H   [47;23H[?25h[?25l[52;34H~@k[47;23H[52;34H   [47;24H[?25h[?25l[52;34H~@k[47;24H[52;34H   [47;25H[?25h[?25l[52;34H~@k[47;25H[52;34H   [47;26H[?25h[?25l[52;34H~@k[47;26H[52;34H   [47;27H[?25h[?25l[52;34H~@k[47;27H[52;34H   [47;28H[?25h[?25l[52;34H~@k[47;28H[52;34H   [47;29H[?25h[?25l[52;34H~@k[47;29H[52;34H   [47;30H[?25h[?25l[52;34H~@k[47;30H[52;34H   [47;31H[?25h[?25l[52;34H~@k[47;31H[52;34H   [47;32H[?25h[?25l[52;34H~@k[47;32H[52;34H   [47;33H[?25h[?25l[52;34H~@k[47;33H[52;34H   [47;34H[?25h[?25l[52;34H~@k[47;34H[52;34H   [47;35H[?25h[?25l[52;34H~@k[47;35H[52;34H   [47;36H[?25h[?25l[52;34H~@k[47;36H[52;34H   [47;37H[?25h[?25l[52;34H~@k[47;37H[52;34H   [47;38H[?25h[?25l[52;34H~@k[47;38H[52;34H   [47;39H[?25h[?25l[52;34H~@k[47;39H[52;34H   [47;40H[?25h[?25l[52;34H~@k[47;40H[52;34H   [47;41H[?25h[?25l[52;34H~@k[47;41H[52;34H   [47;42H[?25h[?25l[52;34H~@k[47;42H[52;34H   [47;43H[?25h[?25l[52;34H~@k[47;43H[52;34H   [47;44H[?25h[?25l[52;34H~@k[47;44H[52;34H   [48;1H[?25h[?25l[52;34H~@k[48;1H[52;34H   [48;2H[?25h[?25l[52;34H~@k[48;2H[52;34H   [48;3H[?25h[?25l[52;34H~@k[48;3H[52;34H   [48;4H[?25h[?25l[52;34H~@k[48;4H[52;34H   [48;5H[?25h[?25l[52;34H~@k[48;5H[52;34H   [48;6H[?25h[?25l[52;34H~@k[48;6H[52;34H   [48;7H[?25h[?25l[52;34H~@k[48;7H[52;34H   [48;8H[?25h[?25l[52;34H~@k[48;8H[52;34H   [48;9H[?25h[?25l[52;34H~@k[48;9H[52;34H   [48;10H[?25h[?25l[52;34H~@k[48;10H[52;34H   [48;11H[?25h[?25l[52;34H~@k[48;11H[52;34H   [48;12H[?25h[?25l[52;34H~@k[48;12H[52;34H   [48;13H[?25h[?25l[52;34H~@k[48;13H[52;34H   [48;14H[?25h[?25l[52;34H~@k[48;14H[52;34H   [48;15H[?25h[?25l[52;34H~@k[48;15H[52;34H   [48;16H[?25h[?25l[52;34H~@k[48;16H[52;34H   [48;17H[?25h[?25l[52;34H~@k[48;17H[52;34H   [48;18H[?25h[?25l[52;34H~@k[48;18H[52;34H   [48;19H[?25h[?25l[52;34H~@k[48;19H[52;34H   [48;18H[?25h[?25l[52;34H~@k[48;18H[52;34H   [48;17H[?25h[?25l[52;34H~@k[48;17H[52;34H   [48;16H[?25h[?25l[52;34H~@k[48;16H[52;34H   [48;15H[?25h[?25l[52;34H~@k[48;15H[52;34H   [48;14H[?25h[?25l[52;34H~@k[48;14H[52;34H   [48;13H[?25h[?25l[52;34H~@k[48;13H[52;34H   [48;12H[?25h[?25l[52;34H~@k[48;12H[52;34H   [48;11H[?25h[?25l[52;34H~@k[48;11H[52;34H   [48;10H[?25h[?25l[52;34H~@k[48;10H[52;34H   [48;9H[?25h[?25l[52;34H~@k[48;9H[52;34H   [48;8H[?25h[?25l[52;34H~@k[48;8H[52;34H   [48;7H[?25h[?25l[52;34H~@k[48;7H[52;34H   [48;6H[?25h[?25l[52;34H~@k[48;6H[52;34H   [48;5H[?25h[?25l[52;34H~@k[48;5H[52;34H   [48;4H[?25h[?25l[52;34H~@k[48;4H[52;34H   [48;3H[?25h[?25l[52;34H~@k[48;3H[52;34H   [48;2H[?25h[?25l[52;34H~@k[48;2H[52;34H   [48;1H[?25h[?25l[52;34H~@k[48;1H[52;34H   [47;44H[?25h[?25l[52;34H~@k[47;44H[52;34H   [47;43H[?25h[?25l[52;34H~@k[47;43H[52;34H   [47;44H[?25h[?25l[52;34H~@k[47;44H[52;34H   [48;1H[?25h[?25l[52;34H~@k[48;1H[52;34H   [47;44H[?25h[?25l[52;34Hx[47;44H[52;34H [47;44H[52;34Hdl[47;44H[52;34H  [47;44H::[48;1H/opt/homebrew/opt/python@3.12/libexec/bin:$PP[49;1HATH"[49;5H[K[47;44H[?25h[?25l[52;34Hu[47;44H[52;1H1 change; befo...  2 seconds ago[52;34H[K[47;44Hnn[48;1H:/opt/homebrew/opt/python@3.12/libexec/bin:$$[49;1HPATH"[47;44H[?25h[?25l[52;34H^[[47;44H[?25h[?25l[52;34H  [47;44H[?25h[?25l[52;34H~@k[47;44H[52;34H   [48;1H[?25h[?25l[52;34H~@k[48;1H[52;34H   [48;2H[?25h[?25l[52;34H~@k[48;2H[52;34H   [48;3H[?25h[?25l[52;34H~@k[48;3H[52;34H   [48;4H[?25h[?25l[52;34H^[[48;4H[?25h[?25l[52;34H  [48;4H[?25h[?25l[52;34H:[48;4H[52;1H[K[52;1H:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[52;1H[K[52;1H[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hvi ~/.zshrc[?1l>[?2004l
+]2;vi ~/.zshrc]1;vi[?1049h[>4;2m[?1h=[?2004h[?1004h[1;52r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[52;1H"~/.zshrc" 108L, 4191B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]11;?]10;?[1;1H# If you come from bash you might have to chh[2;1Hange your $PATH.[2;17H[K[3;1H# export PATH=$HOME/bin:$HOME/.local/bin:/uss[4;1Hr/local/bin:$PATH
+
+# Path to your Oh My Zsh installation.
+export ZSH="$HOME/.oh-my-zsh"
+
+# Set name of the theme to load --- if set tt[10;1Ho "random", it will
+# load a random theme each time Oh My Zsh iss[12;1H loaded, in which case,
+# to know which specific one was loaded, runn[14;1H: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wikk[16;1Hi/Themes
+ZSH_THEME="robbyrussell"
+
+# Set list of themes to pick from when loadii[20;1Hng at random
+# Setting this variable when ZSH_THEME=randoo[22;1Hm will cause zsh to load
+# a theme from this variable instead of lookk[24;1Hing in $ZSH/themes/
+# If set to an empty array, this variable wii[26;1Hll have no effect.
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell[28;1Hl" "agnoster" )
+
+# Uncomment the following line to use case-ss[31;1Hensitive completion.
+# CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphenn[35;1H-insensitive completion.
+# Case-sensitive completion must be off. _ aa[37;1Hnd - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
+# Uncomment one of the following lines to chh[41;1Hange the auto-update behavior
+# zstyle ':omz:update' mode disabled  # disaa[43;1Hble automatic updates
+# zstyle ':omz:update' mode auto      # updaa[45;1Hte automatically without asking
+# zstyle ':omz:update' mode reminder  # justt[47;1H remind me to update when it's time
+
+# Uncomment the following line to change howw[50;1H often to auto-update (in days).
+# zstyle ':omz:update' frequency 13[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$pP+q6b32\P+q6b33\P+q6b34\P+q6b35\P+q6b36\P+q6b37\P+q6b38\P+q6b39\P+q6b3b\P+q4631\P+q4632\P+q2531\P+q2638\P+q6b62\P+q6b49\P+q6b44\P+q6b68\P+q4037\P+q6b50\P+q6b4e\P+q4b31\P+q4b33\P+q4b34\P+q4b35\P+q6b42\P+q5053\P+q5045\[?25l[52;34HG[1;1H[52;34H [50;1H[27m[23m[29m[m[H[2J[1;1H# Example format: plugins=(rails git textmatt[2;1He ruby lighthouse)
+# Add wisely, as too many plugins slow down  [4;1Hshell startup.
+plugins=(git)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# You may need to manually set your languagee[14;1H environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sesss[18;1Hions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='nvim'
+# fi
+
+# Compilation flags
+# export ARCHFLAGS="-arch $(uname -m)"
+
+# Set personal aliases, overriding those proo[29;1Hvided by Oh My Zsh libs,
+# plugins, and themes. Aliases can be placedd[31;1H here, though Oh My Zsh
+# users are encouraged to define aliases witt[33;1Hhin a top-level file in
+# the $ZSH_CUSTOM folder, with .zsh extensioo[35;1Hn. Examples:
+# - $ZSH_CUSTOM/aliases.zsh
+# - $ZSH_CUSTOM/macos.zsh
+# For a full list of active aliases, run `all[39;1Hias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+### MANAGED BY RANCHER DESKTOP START (DO NOTT[46;1H EDIT)
+export PATH="/Users/peerawat.ujaiyen/.rd/binn[48;1H:/opt/homebrew/opt/python@3.12/libexec/bin:$$[49;1HPATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EE[51;1HDIT)[50;1H[?25h[?25l[52;34H~@k[50;1H[52;34H   [50;1H[?25h[?25l[52;34H~@k[50;1H[52;34H   [47;1H[?25h[?25l[52;34H~@k[47;1H[52;34H   [47;2H[?25h[?25l[52;34H~@k[47;2H[52;34H   [47;3H[?25h[?25l[52;34H~@k[47;3H[52;34H   [47;4H[?25h[?25l[52;34H~@k[47;4H[52;34H   [47;5H[?25h[?25l[52;34H~@k[47;5H[52;34H   [47;6H[?25h[?25l[52;34H~@k[47;6H[52;34H   [47;7H[?25h[?25l[52;34H~@k[47;7H[52;34H   [47;8H[?25h[?25l[52;34H~@k[47;8H[52;34H   [47;9H[?25h[?25l[52;34H~@k[47;9H[52;34H   [47;10H[?25h[?25l[52;34H~@k[47;10H[52;34H   [47;11H[?25h[?25l[52;34H~@k[47;11H[52;34H   [47;12H[?25h[?25l[52;34H~@k[47;12H[52;34H   [47;13H[?25h[?25l[52;34H~@k[47;13H[52;34H   [47;14H[?25h[?25l[52;34H~@k[47;14H[52;34H   [47;15H[?25h[?25l[52;34H~@k[47;15H[52;34H   [47;16H[?25h[?25l[52;34H~@k[47;16H[52;34H   [47;17H[?25h[?25l[52;34H~@k[47;17H[52;34H   [47;18H[?25h[?25l[52;34H~@k[47;18H[52;34H   [47;19H[?25h[?25l[52;34H~@k[47;19H[52;34H   [47;20H[?25h[?25l[52;34H~@k[47;20H[52;34H   [47;21H[?25h[?25l[52;34H~@k[47;21H[52;34H   [47;22H[?25h[?25l[52;34H~@k[47;22H[52;34H   [47;23H[?25h[?25l[52;34H~@k[47;23H[52;34H   [47;24H[?25h[?25l[52;34H~@k[47;24H[52;34H   [47;25H[?25h[?25l[52;34H~@k[47;25H[52;34H   [47;26H[?25h[?25l[52;34H~@k[47;26H[52;34H   [47;27H[?25h[?25l[52;34H~@k[47;27H[52;34H   [47;28H[?25h[?25l[52;34H~@k[47;28H[52;34H   [47;29H[?25h[?25l[52;34H~@k[47;29H[52;34H   [47;30H[?25h[?25l[52;34H~@k[47;30H[52;34H   [47;31H[?25h[?25l[52;34H~@k[47;31H[52;34H   [47;32H[?25h[?25l[52;34H~@k[47;32H[52;34H   [47;33H[?25h[?25l[52;34H~@k[47;33H[52;34H   [47;34H[?25h[?25l[52;34H~@k[47;34H[52;34H   [47;35H[?25h[?25l[52;34H~@k[47;35H[52;34H   [47;36H[?25h[?25l[52;34H~@k[47;36H[52;34H   [47;37H[?25h[?25l[52;34H~@k[47;37H[52;34H   [47;38H[?25h[?25l[52;34H~@k[47;38H[52;34H   [47;39H[?25h[?25l[52;34H~@k[47;39H[52;34H   [47;40H[?25h[?25l[52;34H~@k[47;40H[52;34H   [47;41H[?25h[?25l[52;34H~@k[47;41H[52;34H   [47;42H[?25h[?25l[52;34H~@k[47;42H[52;34H   [47;43H[?25h[?25l[52;34H^[[47;43H[?25h[?25l[52;34H  [47;43H[?25h[?25l[52;34H:[47;43H[52;34H[K[52;1H:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[52;1H[K[52;1H[?1004l[?2004l[?1l>[?1049l[?25h[>4;m[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                            ]2;peerawat.ujaiyen@TECHXMAC090762A:~/MyCode/flowkit/scripts]1;..owkit/scripts]7;file://TECHXMAC090762A.local/Users/peerawat.ujaiyen/MyCode/flowkit/scripts\[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
