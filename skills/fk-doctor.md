@@ -171,7 +171,7 @@ Three behaviours on this path routinely look like bugs and are not:
 | `invalidCategoryId` (400) | Unknown category_id | Use `"22"` (People & Blogs) or `"24"` (Entertainment) |
 | `quotaExceeded` (403) | YT API daily 10K quota exhausted (uploads cost 1600) | Wait 24h — resets at Pacific midnight |
 | `uploadLimitExceeded` (400) | Channel daily upload cap hit | Wait 24h or use another channel |
-| `invalid_grant` (auth) | OAuth token revoked/expired | `python3 youtube/auth.py <channel>` |
+| `invalid_grant` (auth) | OAuth token revoked/expired | `venv/bin/python youtube/auth.py <channel>` |
 | `scheduledPublishTimeInPast` | `publishAt` <= now | Use `auto_schedule()` or bump to next day |
 
 ### E. Setup / environment errors
