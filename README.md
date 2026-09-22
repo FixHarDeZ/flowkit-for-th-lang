@@ -24,8 +24,8 @@
 - **TTS ภาษาไทย** — OmniVoice รองรับ 600+ ภาษา รวมถึงไทย พร้อม voice cloning
 - **Narrator ภาษาไทย** — สร้างบทบรรยาย + voice-over อัตโนมัติ
 - **Text Overlays ภาษาไทย** — ใส่ข้อความภาษาไทยบนวิดีโอ
-- **SEO ภาษาไทย** — 生成 title, description, tags, hashtags สำหรับ YouTube ภาษาไทย
-- **研究 Fact-check ก่อนเขียนบท** — ตรวจสอบข้อมูลก่อนทำคลิป
+- **SEO ภาษาไทย** — Generate title, description, tags, hashtags สำหรับ YouTube ภาษาไทย
+- **Fact-check ก่อนเขียนบท** — ตรวจสอบข้อมูลก่อนทำคลิป
 
 ---
 
